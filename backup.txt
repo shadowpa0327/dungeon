@@ -1,0 +1,50 @@
+10
+0 1
+1 -1 -1 -1 
+NPC Uncle_rubbish Welcome! 4
+Dragon_heart treasure 0 30 0
+knife<normal> weapon 5 20 5
+suit<normal>  weapon 0 0 20
+Dragon_fire treasure 100 0 0
+1 1
+2 0 -1 4 
+NPC Doctor_martin Good_morning! 3
+pill<normal> recovery 30 0 0
+pill<normal> recovery 30 0 0
+pill<super> recovery 100 0 0
+2 1
+3 1 7 -1 
+CHEST Old_chest
+Open to find some suprise!
+0 0
+3 1
+6 2 -1 -1 
+Monster NIWAN 180 180 30 100 
+4 1
+-1 -1 1 5 
+Monster hanguoYu 50 50 60 100
+5 0
+-1 -1 4 -1 
+6 1
+-1 3 -1 -1
+CHEST Golden_chest 
+Opne to find some suprise!
+1 1
+Dragon_sacai treasure 100 100 100
+7 1
+-1 8 -1 2
+NPC Doctor_indrew Good_morning! 3
+pill<medium> recovery 40 0 0
+pill<medium> recovery 40 0 0
+pill<super> recovery 100 0 0
+8 1
+7 -1 9 -1
+Monster Yushan 140 140 20 100
+9 1
+-1 -1 -1 8
+CHEST Golden_chest 
+Opne to find some suprise!
+1 1
+Dragon_eye treasure 0 10 100
+brian 100 100 30 30 0 -1 0
+5 1 0 1
